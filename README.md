@@ -1,4 +1,4 @@
-# DevOps-GPT: AI Powered Deployment and Failure Detection
+# DevOps-GPT:For Deployment and Failure Detection
 
 DevOps-GPT is an AI-driven DevOps observability and deployment intelligence framework developed as a Final Year Project for intelligent CI/CD monitoring, deployment failure detection, anomaly analysis, and automated root-cause assistance using Large Language Models (LLMs) and the Model Context Protocol (MCP).
 
